@@ -9,7 +9,7 @@ Imports System.Security.Cryptography
 
 Module DiscordLeaderbordTest
     
-    Dim webhookurl As String = "URL HERE"
+    Dim webhookurl As String = "https://discord.com/api/webhooks/1416461681269412130/w1s0W2-NBCdVnTWAR1tpvTe6NAJxaOy2XBFOdAIp3ztrgv5e7TH7VsNsgND7Fcd0k5WN"
 
     Public Sub connectD()
         Dim mess = ""
